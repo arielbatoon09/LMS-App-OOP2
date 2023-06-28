@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.form-select{
+    background-position: left 1rem center;
+    background-size: fill;
+}
+
+html,
+body{
+    overflow-x: hidden;
+}
